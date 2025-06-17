@@ -63,3 +63,8 @@
   padding: 0;
   text-align: center;
 }
+
+.status {
+  padding: 20px;
+  font-size: 24px;
+}
