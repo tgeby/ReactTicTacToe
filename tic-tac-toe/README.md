@@ -1,3 +1,11 @@
+# To run this project
+1. Clone repo
+2. cd into repo > tic-tac-toe
+3. Run npm install
+4. Run npm start
+
+Everything below this line was automatically generated.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
